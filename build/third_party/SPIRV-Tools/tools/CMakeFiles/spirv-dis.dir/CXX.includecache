@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../third_party/SPIRV-Tools/include/spirv-tools/libspirv.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+../third_party/SPIRV-Tools/tools/io.h
+cstdint
+-
+cstdio
+-
+vector
+-
+
+/home/gamer/github_projects/swiftshader/third_party/SPIRV-Tools/tools/dis/dis.cpp
+stdio.h
+-
+unistd.h
+-
+cstdio
+-
+cstring
+-
+string
+-
+vector
+-
+spirv-tools/libspirv.h
+/home/gamer/github_projects/swiftshader/third_party/SPIRV-Tools/tools/dis/spirv-tools/libspirv.h
+tools/io.h
+/home/gamer/github_projects/swiftshader/third_party/SPIRV-Tools/tools/dis/tools/io.h
+

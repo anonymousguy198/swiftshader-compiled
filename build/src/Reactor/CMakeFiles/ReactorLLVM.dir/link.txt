@@ -1,0 +1,2 @@
+/usr/bin/ar qc libReactorLLVM.a CMakeFiles/ReactorLLVM.dir/Debug.cpp.o CMakeFiles/ReactorLLVM.dir/EmulatedReactor.cpp.o CMakeFiles/ReactorLLVM.dir/ExecutableMemory.cpp.o CMakeFiles/ReactorLLVM.dir/Reactor.cpp.o CMakeFiles/ReactorLLVM.dir/ReactorDebugInfo.cpp.o CMakeFiles/ReactorLLVM.dir/CPUID.cpp.o CMakeFiles/ReactorLLVM.dir/LLVMJIT.cpp.o CMakeFiles/ReactorLLVM.dir/LLVMReactor.cpp.o CMakeFiles/ReactorLLVM.dir/LLVMReactorDebugInfo.cpp.o
+/usr/bin/ranlib libReactorLLVM.a

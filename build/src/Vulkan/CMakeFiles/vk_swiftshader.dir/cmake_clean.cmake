@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../libvk_swiftshader.pdb"
+  "../../libvk_swiftshader.so"
+  "CMakeFiles/vk_swiftshader.dir/VkBuffer.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkBufferView.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkCommandBuffer.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkCommandPool.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDebugUtilsMessenger.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDescriptorPool.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDescriptorSet.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDescriptorSetLayout.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDescriptorUpdateTemplate.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDevice.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkDeviceMemory.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkFormat.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkFramebuffer.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkGetProcAddress.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkImage.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkImageView.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkInstance.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkMemory.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkPhysicalDevice.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkPipeline.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkPipelineCache.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkPipelineLayout.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkPromotedExtensions.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkQueryPool.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkQueue.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkRenderPass.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkSampler.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkSemaphore.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkShaderModule.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkSpecializationInfo.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/VkStringify.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/libVulkan.cpp.o"
+  "CMakeFiles/vk_swiftshader.dir/main.cpp.o"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/vk_swiftshader.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

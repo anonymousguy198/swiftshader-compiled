@@ -1,0 +1,1 @@
+/usr/bin/c++  -m64 -fPIC -march=x86-64 -mtune=generic -O3 -DNDEBUG -s -Os -DNDEBUG -DANGLE_DISABLE_TRACE -ffunction-sections -fdata-sections -fomit-frame-pointer -rdynamic CMakeFiles/spirv-as.dir/as/as.cpp.o -o spirv-as  ../source/libSPIRV-Tools.a -lrt 

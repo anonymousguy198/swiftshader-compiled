@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvk_wsi.a CMakeFiles/vk_wsi.dir/VkSurfaceKHR.cpp.o CMakeFiles/vk_wsi.dir/VkSwapchainKHR.cpp.o CMakeFiles/vk_wsi.dir/XlibSurfaceKHR.cpp.o CMakeFiles/vk_wsi.dir/libX11.cpp.o CMakeFiles/vk_wsi.dir/XcbSurfaceKHR.cpp.o
+/usr/bin/ranlib libvk_wsi.a

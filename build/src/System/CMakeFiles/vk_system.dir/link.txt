@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvk_system.a CMakeFiles/vk_system.dir/Build.cpp.o CMakeFiles/vk_system.dir/Configurator.cpp.o CMakeFiles/vk_system.dir/CPUID.cpp.o CMakeFiles/vk_system.dir/Debug.cpp.o CMakeFiles/vk_system.dir/Half.cpp.o CMakeFiles/vk_system.dir/Math.cpp.o CMakeFiles/vk_system.dir/Memory.cpp.o CMakeFiles/vk_system.dir/Socket.cpp.o CMakeFiles/vk_system.dir/Timer.cpp.o CMakeFiles/vk_system.dir/Linux/MemFd.cpp.o
+/usr/bin/ranlib libvk_system.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libReactorSubzero.a CMakeFiles/ReactorSubzero.dir/Debug.cpp.o CMakeFiles/ReactorSubzero.dir/EmulatedReactor.cpp.o CMakeFiles/ReactorSubzero.dir/ExecutableMemory.cpp.o CMakeFiles/ReactorSubzero.dir/Reactor.cpp.o CMakeFiles/ReactorSubzero.dir/ReactorDebugInfo.cpp.o CMakeFiles/ReactorSubzero.dir/Optimizer.cpp.o CMakeFiles/ReactorSubzero.dir/SubzeroReactor.cpp.o
+/usr/bin/ranlib libReactorSubzero.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvk_device.a CMakeFiles/vk_device.dir/ASTC_Decoder.cpp.o CMakeFiles/vk_device.dir/BC_Decoder.cpp.o CMakeFiles/vk_device.dir/Blitter.cpp.o CMakeFiles/vk_device.dir/Clipper.cpp.o CMakeFiles/vk_device.dir/Context.cpp.o CMakeFiles/vk_device.dir/ETC_Decoder.cpp.o CMakeFiles/vk_device.dir/PixelProcessor.cpp.o CMakeFiles/vk_device.dir/QuadRasterizer.cpp.o CMakeFiles/vk_device.dir/Renderer.cpp.o CMakeFiles/vk_device.dir/SetupProcessor.cpp.o CMakeFiles/vk_device.dir/VertexProcessor.cpp.o
+/usr/bin/ranlib libvk_device.a

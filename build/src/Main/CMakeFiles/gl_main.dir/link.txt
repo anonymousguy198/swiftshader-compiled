@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgl_main.a CMakeFiles/gl_main.dir/Config.cpp.o CMakeFiles/gl_main.dir/FrameBuffer.cpp.o CMakeFiles/gl_main.dir/SwiftConfig.cpp.o CMakeFiles/gl_main.dir/FrameBufferX11.cpp.o CMakeFiles/gl_main.dir/libX11.cpp.o
+/usr/bin/ranlib libgl_main.a

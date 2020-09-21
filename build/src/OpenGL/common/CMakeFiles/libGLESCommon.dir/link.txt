@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGLESCommon.a CMakeFiles/libGLESCommon.dir/debug.cpp.o CMakeFiles/libGLESCommon.dir/Image.cpp.o CMakeFiles/libGLESCommon.dir/MatrixStack.cpp.o CMakeFiles/libGLESCommon.dir/Object.cpp.o
+/usr/bin/ranlib libGLESCommon.a
